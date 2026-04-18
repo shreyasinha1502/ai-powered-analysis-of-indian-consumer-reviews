@@ -84,6 +84,11 @@ Running the pipeline writes:
 ### Application Link :
 https://ai-powered-analysis-of-indian-consumer-reviews-zncjgljr9osiyxh.streamlit.app/
 
+## Application Preview
+![Project Snapshot1](https://github.com/shreyasinha1502/ai-powered-analysis-of-indian-consumer-reviews/blob/main/ai1.PNG)
+![Project Snapshot2](https://github.com/shreyasinha1502/ai-powered-analysis-of-indian-consumer-reviews/blob/main/ai2.PNG)
+![Project Snapshot3](https://github.com/shreyasinha1502/ai-powered-analysis-of-indian-consumer-reviews/blob/main/ai3.PNG)
+
 
 
 
