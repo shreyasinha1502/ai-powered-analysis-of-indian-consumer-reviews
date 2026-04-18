@@ -6,14 +6,24 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-from indian_ecommerce_nlp.pipeline import (
-    DATA_DIR,
-    FIGURE_DIR,
-    REPORT_DIR,
-    SentimentConfig,
-    load_reviews_dataset,
-    run_pipeline,
-)
+try:
+    from indian_ecommerce_nlp.pipeline import (
+        DATA_DIR,
+        FIGURE_DIR,
+        REPORT_DIR,
+        SentimentConfig,
+        load_reviews_dataset,
+        run_pipeline,
+    )
+except ModuleNotFoundError:
+    from pipeline import (
+        DATA_DIR,
+        FIGURE_DIR,
+        REPORT_DIR,
+        SentimentConfig,
+        load_reviews_dataset,
+        run_pipeline,
+    )
 
 
 def load_uploaded_dataset(uploaded_file) -> pd.DataFrame:
