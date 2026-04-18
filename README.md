@@ -37,30 +37,11 @@ Optional columns:
 - `product_name`
 - `price`
 
-## Files
 
-- [pipeline.py](/C:/Users/hii/Documents/New%20project/indian_ecommerce_nlp/pipeline.py)
-- [app.py](/C:/Users/hii/Documents/New%20project/indian_ecommerce_nlp/app.py)
-- [run_analysis.py](/C:/Users/hii/Documents/New%20project/indian_ecommerce_nlp/run_analysis.py)
-- [sample_reviews.csv](/C:/Users/hii/Documents/New%20project/indian_ecommerce_nlp/data/sample_reviews.csv)
 
-## How to run
 
-```powershell
-cd "C:\Users\hii\Documents\New project"
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r indian_ecommerce_nlp\requirements.txt
-pip install torch
-python -m indian_ecommerce_nlp.run_analysis --input indian_ecommerce_nlp\data\sample_reviews.csv
-streamlit run indian_ecommerce_nlp\app.py
-```
 
-If you skip `torch`, the project still runs in VADER-first mode and the code will fall back automatically when transformer weights are unavailable.
 
-## Scraping note
-
-The code includes BeautifulSoup-based helper functions for compliant parsing of saved review HTML pages or allowed URLs. For live production scraping, follow marketplace terms of use, robots rules, and legal/compliance guidance.
 
 ## Output artifacts
 
