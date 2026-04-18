@@ -1,0 +1,31 @@
+review_text,date,rating,verified_purchase,platform,brand,product_name,price
+"Paisa vasool earbuds, sound is crisp and battery life is solid for the price",2025-08-03,5,TRUE,Amazon India,boAt,Airdopes 141,1299
+"Packaging was damaged and the case looked duplicate, not worth this price",2025-08-11,2,TRUE,Flipkart,boAt,Airdopes 141,1299
+"Good budget phone, camera is decent and overall value for money",2025-08-17,4,TRUE,Amazon India,Redmi,Redmi 13C,9499
+"Battery drains fast and charger quality feels cheap",2025-08-29,2,FALSE,Flipkart,Redmi,Redmi 13C,9499
+"Prestige cooker is reliable, sturdy and perfect for daily use",2025-09-02,5,TRUE,Amazon India,Prestige,Pressure Cooker,2199
+"Handle became loose in one week, expected better quality from this brand",2025-09-05,2,TRUE,Flipkart,Prestige,Pressure Cooker,2199
+"Samsung power bank charges quickly but a bit expensive compared to local options",2025-09-09,3,TRUE,Amazon India,Samsung,Power Bank 20000mAh,2299
+"Trusted brand and original product, I will buy again during the next sale",2025-09-18,5,TRUE,Amazon India,Samsung,Power Bank 20000mAh,2299
+"Bakwaas stitching on this kurti, waste of money and cloth feels very poor",2025-09-24,1,TRUE,Flipkart,Generic,Cotton Kurti,799
+"Looks good in photos but material is thin and overpriced",2025-10-02,2,FALSE,Amazon India,Generic,Cotton Kurti,799
+"LG mixer grinder works smoothly, premium finish and trusted brand",2025-10-05,5,TRUE,Flipkart,LG,Mixer Grinder,3499
+"Motor became noisy after ten days and service support was slow",2025-10-12,2,TRUE,Amazon India,LG,Mixer Grinder,3499
+"Pigeon cookware set is budget friendly and paisa vasool for students",2025-10-19,4,TRUE,Amazon India,Pigeon,Cookware Set,1599
+"Coating started peeling, now I feel the deal was not worth it",2025-10-27,2,TRUE,Flipkart,Pigeon,Cookware Set,1599
+"JBL speaker has mast sound quality and feels authentic",2025-11-03,5,TRUE,Amazon India,JBL,Bluetooth Speaker,2999
+"Bass is great but price is high unless there is a festival discount",2025-11-10,4,TRUE,Flipkart,JBL,Bluetooth Speaker,2999
+"Cello bottle arrived broken and cap quality is bad",2025-11-16,1,TRUE,Amazon India,Cello,Steel Water Bottle,499
+"Bought again because Cello is reliable and long lasting",2025-11-22,5,TRUE,Flipkart,Cello,Steel Water Bottle,499
+"Noise smart watch looks stylish but feels fake and software is unreliable",2025-12-01,2,FALSE,Amazon India,Noise,ColorFit Smart Watch,2499
+"Great display and very affordable during sale, overall worth buying",2025-12-09,4,TRUE,Flipkart,Noise,ColorFit Smart Watch,2499
+"Boat neckband is my repeat purchase, strong battery and solid brand trust",2025-12-17,5,TRUE,Amazon India,boAt,Neckband Rockerz,1799
+"Price increased too much this month, still okay but not a great deal now",2026-01-05,3,TRUE,Amazon India,boAt,Neckband Rockerz,1799
+"Redmi phone became smoother after update and now feels like a smart budget buy",2026-01-12,4,TRUE,Flipkart,Redmi,Redmi 13C,9499
+"Still seeing heating issues and camera is average for this cost",2026-01-21,3,TRUE,Amazon India,Redmi,Redmi 13C,9499
+"Prestige cookware quality has improved, good finish and worthy brand",2026-02-04,4,TRUE,Amazon India,Prestige,Cookware Combo,2599
+"The lid was bent and this original looking set still feels costly",2026-02-13,2,TRUE,Flipkart,Prestige,Cookware Combo,2599
+"Samsung charger is compact, authentic and definitely worth the money",2026-02-21,5,TRUE,Amazon India,Samsung,25W Charger,1299
+"Expensive for a charger and cable quality is just average",2026-03-02,2,TRUE,Flipkart,Samsung,25W Charger,1299
+"LG washing machine is silent, premium and service engineer was helpful",2026-03-11,5,TRUE,Amazon India,LG,Top Load Washing Machine,22499
+"Installation took too long and the machine had a dent on arrival",2026-03-19,2,TRUE,Flipkart,LG,Top Load Washing Machine,22499
