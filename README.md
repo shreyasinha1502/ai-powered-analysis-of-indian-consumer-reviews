@@ -81,18 +81,11 @@ Running the pipeline writes:
 - `outputs/reports/findings_report.md`
 
 ## Deployment
+### Application Link :
+https://ai-powered-analysis-of-indian-consumer-reviews-zncjgljr9osiyxh.streamlit.app/
 
-### Streamlit Community Cloud
 
-- App path: `indian_ecommerce_nlp/app.py`
-- Python version: `3.11`
-- Install command: `pip install -r indian_ecommerce_nlp/requirements.txt`
-- Optional extra for transformer inference: `pip install torch`
-- Start command: `streamlit run indian_ecommerce_nlp/app.py --server.port $PORT --server.address 0.0.0.0`
 
-### Render or Hugging Face Spaces
-
-Use the same dependencies and launch command. The project is stateless and writes outputs locally, so it can also be containerized easily.
 
 ## Suggested presentation story
 
